@@ -11,7 +11,7 @@ You also have a skill where you can freeze a platform by clicking on it to help 
 ## Mechanics
 
 ### Stage Transition
-When the ball get to the next stage by going through the exit / enter path, the ball will spawn on the determined position on the stage said.
+When the ball get to the next stage by going through the exit / enter path, the ball will spawn on the determined position on the said stage.
 
 ![Unpathed stage transition](https://github.com/user-attachments/assets/4d8a54f5-cea8-4c1d-bc8e-59946a6bb299)
 
