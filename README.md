@@ -8,6 +8,10 @@ Lead the ball by rotating the stage to the unknown. Beware of the traps, and int
 Unpathed is a single player game where you control the stage to move the ball through the next stage. There's a bunch of platforms and traps the ball can interact to, including a one-way, a moving cart, a pressure plate, to a laser trap that can disintegrate the ball.
 You also have a skill where you can freeze a platform by clicking on it to help the ball go through the stage. The skill have a cooldown and duration, so use it wisely.
 
+## Developer and Contributions
+- Kelvin: Game designer
+- Jeremy Edward: Unity game programmer
+
 ## Mechanics
 
 ### Stage Transition
@@ -29,9 +33,9 @@ Some platforms and traps:
 
 ![Unpathed platforms](https://github.com/user-attachments/assets/523672fb-550f-4f4a-a607-19d90965e5a9)
 
-Top left: Open and close door by rolling the ball through a button
-Top right: Laser and spike trap. Spike trap only cover a short area, while laser will shoot until it detects an object.
-Bottom: A moving block that triggered by a pressure plate (off screen).
+- Top left: Open and close door by rolling the ball through a button
+- Top right: A moving block that triggered by a pressure plate (off screen).
+- Bottom: Laser and spike trap. Spike trap only cover a short area, while laser will shoot until it detects an object.
 
 ## Scripts
 Each platform / trap has it's own scripts. Scripts shown below are the major ones.
