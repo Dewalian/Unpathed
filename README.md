@@ -1,6 +1,6 @@
 # Unpathed
 
-![UnpathedGIF3](https://github.com/user-attachments/assets/08ed9127-510d-42d6-8095-affdcd7cfeb9)
+![UnpathedGIF3](https://github.com/user-attachments/assets/ec6e5043-bb06-41bb-9b6c-35d5f7c102fd)
 
 Lead the ball by rotating the stage to the unknown. Beware of the traps, and interact with the platforms to make the ball way through.
 
